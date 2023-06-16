@@ -1,3 +1,5 @@
+'use client';
+import 'regenerator-runtime';
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import Main from '@/components/Main';
